@@ -1,10 +1,9 @@
 ## Welcome to My Sites
 
-You can use the [editor on GitHub](https://github.com/almedina123/grupi-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site is for the second group of the countering through technology
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+###Topics
+We learnde the basics of programming HTML, css and java script.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -15,11 +14,16 @@ Syntax highlighted code block
 ## web 1
 ### web 2
 
-- Bulleted
-- List
+Github
+DevOps
+Zenhub
 
-1. Numbered
-2. List
+HTML
+Bootstrap
+CSS
+Javascript
+_jQuery_
+*Github Pages*
 
 **Bold** and _Italic_ and `Code` text
 
